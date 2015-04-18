@@ -30,7 +30,7 @@ public class AppLifecycle implements Lifecycle {
     
 }
 ```
-Launcher
+Launcher 
 
 ```java
 public class AppTest {
